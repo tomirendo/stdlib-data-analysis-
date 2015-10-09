@@ -1,5 +1,4 @@
-
-utline
+###Talk Outline
 
 #### Description
 We will discuss how the Python stdlib can perform a lot of data analysis without any (awesome but) complicated libraries like pandas. I used to work as an analyst and getting our company's data into the Jupyter notebook was a big change for us. We didn't use any library to analyse it, and sticking to the python core worked very well for us. 
